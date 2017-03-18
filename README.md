@@ -1,2 +1,2 @@
 # dlnd-project2
-Image recognition
+Image classification
